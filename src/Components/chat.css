@@ -1,0 +1,21 @@
+.top{
+    display: flex;
+}
+.chat{
+    align-content: flex-start;
+    color: white;
+}
+.cm{
+    padding-left: 60%;
+    align-content: flex-end;
+}
+#sending{
+    margin-top: 84%;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+input:hover{
+    background-color: #F21170;
+}
